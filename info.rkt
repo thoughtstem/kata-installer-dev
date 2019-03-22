@@ -1,5 +1,5 @@
 #lang info
-(define collection "kata-installer")
+(define collection "kata-installer-dev")
 (define deps '("base" 
                "simple-http"
                "https://github.com/thoughtstem/pkg-watcher.git" 
