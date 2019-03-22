@@ -22,15 +22,15 @@
      "https://github.com/thoughtstem/game-engine.git#dev"
      "https://github.com/thoughtstem/game-engine-rpg.git#dev"
      "https://github.com/thoughtstem/game-engine-demos.git?path=game-engine-demos-common#dev"
+     "https://github.com/thoughtstem/TS-Languages.git?path=battlearena#dev"
      "https://github.com/thoughtstem/TS-Languages.git?path=battlearena-avengers#dev"
      "https://github.com/thoughtstem/TS-Languages.git?path=battlearena-fortnite#dev"
      "https://github.com/thoughtstem/TS-Languages.git?path=battlearena-starwars#dev"
-     "https://github.com/thoughtstem/TS-Languages.git?path=battlearena#dev"
      "https://github.com/thoughtstem/TS-Languages.git?path=fundamentals#dev"
      "https://github.com/thoughtstem/TS-Languages.git?path=k2#dev"
+     "https://github.com/thoughtstem/TS-Languages.git?path=survival#dev"
      "https://github.com/thoughtstem/TS-Languages.git?path=survival-minecraft#dev"
      "https://github.com/thoughtstem/TS-Languages.git?path=survival-pokemon#dev"
-     "https://github.com/thoughtstem/TS-Languages.git?path=survival#dev"
      
      ))
 
